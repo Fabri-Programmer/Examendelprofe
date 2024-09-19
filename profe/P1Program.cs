@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 double salario, ventas, cantid_a, totalS = 0, TotalT = 0, totalV = 0;
 string text;
 Console.Write("Cual es tu nombre = ");
@@ -35,3 +36,4 @@ Console.WriteLine("\t\nTu sueldo bruto es = " + salario);
 Console.WriteLine("\t\nTu porcentaje de ventas sumadas = " + (totalV - salario));
 Console.WriteLine("\t\nEl total ganado de salario + ventas - impuestos es = " + TotalD);
 Console.WriteLine("\t\ncantidad de años en la empresa = " + cantid_a);
+//guardado1;
