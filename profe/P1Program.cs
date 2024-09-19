@@ -40,3 +40,4 @@ Console.WriteLine("\t\ncantidad de años en la empresa = " + cantid_a);
 //guardado2;
 //guardado3;
 //guardado4;
+//guaradado5;
