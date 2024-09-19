@@ -37,3 +37,4 @@ Console.WriteLine("\t\nTu porcentaje de ventas sumadas = " + (totalV - salario))
 Console.WriteLine("\t\nEl total ganado de salario + ventas - impuestos es = " + TotalD);
 Console.WriteLine("\t\ncantidad de años en la empresa = " + cantid_a);
 //guardado1;
+//guardado2;
